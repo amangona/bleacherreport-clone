@@ -1,3 +1,4 @@
 # bleacherreport-clone
 
-![screenshot](./screenshots/screenshot.png)
+![screen](./screenshots/screenshot.png)
+
